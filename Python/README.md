@@ -12,19 +12,15 @@
 
 # 🐍 PYTHON ROADMAP
 **🟦 LEVEL 1: NON-NEGOTIABLES (FOUNDATION)**
-
-
 - Variables & Data Types
 - Strings
-- Data Structures
-- Lists, Tuples, Sets & Dictionaries
+- Data Structures (Lists, Tuples, Sets & Dictionaries )
 - Loops & Conditions
 - Exception Handling
 - Functions
 - OOP Basics
   
 **🟧 LEVEL 2: HEART OF DATA ENGINEERING**
-
 - OS & File Handling (Working with CSV and JSON formats )
 - Logging
 - APIs
@@ -33,7 +29,6 @@
 - Async Programming
   
 **🟩 LEVEL 3: LIBRARIES (DE STACK)**
-
 - NumPy: Numerical computing
 - Pandas: Data manipulation
 - PyMySQL: Database connectivity
