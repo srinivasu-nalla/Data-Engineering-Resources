@@ -1,5 +1,14 @@
 Note : https://www.markdownguide.org/cheat-sheet/
 
+# SQL Data-Engineering-Resources
+- **⚡ Collection of Resources to learn/master SQL for data engineering**
+
+| S.No | Description | Link | Notes |
+|---------|-------------|-------------|-------------|
+| **1** | SQL Roadmap For DataEngineer| https://github.com/anshlambagit/SQL_Roadmap_For_DataEngineer | You can watch video from Github Repo |
+| **2** | SQL AI Prompts | https://github.com/anshlambagit/SQL_Roadmap_For_DataEngineer/tree/main/Prompts | You can use this to learn/Pratice this |
+
+
 # SQL for Data Engineers
 
 
