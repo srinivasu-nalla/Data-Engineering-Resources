@@ -1,0 +1,38 @@
+2026-03-02 22:30:06 - INFO - --- Starting Mini ETL Job ---
+2026-03-02 22:30:06 - CRITICAL - PIPELINE FAILED: Input file raw_sales.csv is missing!
+2026-03-02 22:31:52 - INFO - --- Starting Mini ETL Job ---
+2026-03-02 22:31:52 - WARNING - SKIPPING ROW ID 2: Error could not convert string to float: ''
+2026-03-02 22:31:52 - WARNING - SKIPPING ROW ID 3: Error time data 'INVALID_DATE' does not match format '%Y-%m-%d'
+2026-03-02 22:31:52 - WARNING - SKIPPING ROW ID 4: Error could not convert string to float: 'not_a_number'
+2026-03-02 22:31:52 - INFO - Transformation complete. Success: 2, Skipped: 3
+2026-03-02 22:31:52 - INFO - --- ETL Job Finished Successfully! Output: clean_sales.csv ---
+2026-03-02 22:31:59 - INFO - --- Starting Mini ETL Job ---
+2026-03-02 22:31:59 - WARNING - SKIPPING ROW ID 2: Error could not convert string to float: ''
+2026-03-02 22:31:59 - WARNING - SKIPPING ROW ID 3: Error time data 'INVALID_DATE' does not match format '%Y-%m-%d'
+2026-03-02 22:31:59 - WARNING - SKIPPING ROW ID 4: Error could not convert string to float: 'not_a_number'
+2026-03-02 22:31:59 - INFO - Transformation complete. Success: 2, Skipped: 3
+2026-03-02 22:31:59 - INFO - --- ETL Job Finished Successfully! Output: clean_sales.csv ---
+2026-03-02 22:32:58 - INFO - --- Starting Mini ETL Job ---
+2026-03-02 22:32:58 - WARNING - SKIPPING ROW ID 2: Error could not convert string to float: ''
+2026-03-02 22:32:58 - WARNING - SKIPPING ROW ID 3: Error time data 'INVALID_DATE' does not match format '%Y-%m-%d'
+2026-03-02 22:32:58 - WARNING - SKIPPING ROW ID 4: Error could not convert string to float: 'not_a_number'
+2026-03-02 22:32:58 - INFO - Transformation complete. Success: 2, Skipped: 3
+2026-03-02 22:32:58 - INFO - --- ETL Job Finished Successfully! Output: clean_sales.csv ---
+2026-03-02 22:33:55 - INFO - --- Starting Mini ETL Job ---
+2026-03-02 22:33:55 - WARNING - SKIPPING ROW ID 2: Error could not convert string to float: ''
+2026-03-02 22:33:55 - WARNING - SKIPPING ROW ID 3: Error time data 'INVALID_DATE' does not match format '%Y-%m-%d'
+2026-03-02 22:33:55 - WARNING - SKIPPING ROW ID 4: Error could not convert string to float: 'not_a_number'
+2026-03-02 22:33:55 - INFO - Transformation complete. Success: 2, Skipped: 3
+2026-03-02 22:33:55 - INFO - --- ETL Job Finished Successfully! Output: clean_sales.csv ---
+2026-03-02 22:36:11 - INFO - --- Starting Mini ETL Job ---
+2026-03-02 22:36:11 - WARNING - SKIPPING ROW ID 2: Error could not convert string to float: ''
+2026-03-02 22:36:11 - WARNING - SKIPPING ROW ID 3: Error time data 'INVALID_DATE' does not match format '%Y-%m-%d'
+2026-03-02 22:36:11 - WARNING - SKIPPING ROW ID 4: Error could not convert string to float: 'not_a_number'
+2026-03-02 22:36:11 - INFO - Transformation complete. Success: 2, Skipped: 3
+2026-03-02 22:36:11 - INFO - --- ETL Job Finished Successfully! Output: clean_sales.csv ---
+2026-03-02 22:37:49 - INFO - --- Starting Mini ETL Job ---
+2026-03-02 22:37:49 - WARNING - SKIPPING ROW ID 2: Error could not convert string to float: ''
+2026-03-02 22:37:49 - WARNING - SKIPPING ROW ID 3: Error time data 'INVALID_DATE' does not match format '%Y-%m-%d'
+2026-03-02 22:37:49 - WARNING - SKIPPING ROW ID 4: Error could not convert string to float: 'not_a_number'
+2026-03-02 22:37:49 - INFO - Transformation complete. Success: 2, Skipped: 3
+2026-03-02 22:37:49 - INFO - --- ETL Job Finished Successfully! Output: clean_sales.csv ---

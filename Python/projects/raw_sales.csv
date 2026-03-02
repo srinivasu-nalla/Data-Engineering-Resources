@@ -1,0 +1,6 @@
+id,date,amount,item
+1,2026-03-01,100.50,Laptop
+2,2026-03-01,,Mouse
+3,INVALID_DATE,50.00,Keyboard
+4,2026-03-02,not_a_number,Monitor
+5,2026-03-02,200.00,Headphones
