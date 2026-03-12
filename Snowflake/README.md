@@ -12,4 +12,5 @@
 
 
 # DBT+SNOWFLAKE Resources 
--[ Netflix Data Analysis | DBT (databuildtool) Tutorial Course | End-To-End Project](https://www.youtube.com/watch?v=zZVQluYDwYY)
+- [ Netflix Data Analysis | DBT (databuildtool) Tutorial Course | End-To-End Project](https://www.youtube.com/watch?v=zZVQluYDwYY)
+- [Airbnb End-To-End Data Engineering Project (For Beginners) | DBT + Snowflake + AWS](https://www.youtube.com/watch?v=3SZSDKEZqoA)
