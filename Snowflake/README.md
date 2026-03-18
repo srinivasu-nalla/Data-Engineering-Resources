@@ -1,15 +1,23 @@
 # SNOWFLAKE + DBT Data-Engineering-Resources
 - **⚡ Collection of Resources to learn/master SNOWFLAKE + DBT  data engineering**
 
+# DBT+SNOWFLAKE Official Free Trainings 
+
+| S.No | Description | Link |
+|---------|-------------|-------------|
+| **1** | Snowflake Virtual Hands-on Lab: From Zero to Snowflake in 90 Minutes |<br>* [Virtual Hands-on Labs](https://www.snowflake.com/en/webinars/virtual-hands-on-lab/?tags=region%2Fapj)<br>* [Zero to Snowflake Guide](https://www.snowflake.com/en/developers/guides/zero-to-snowflake/) <br>* [Recording Link](https://www.youtube.com/live/5FRmSU1gBkY)|
+| **2** | Data Engineer SQL Learning Path by snowflake | [Data Engineer SQL Learning PATH](https://learn.snowflake.com/en/data-engineer-sql/)|
+| **3** | Data Engineer Learning Path by dbtLabs | [Data Engineer PATH ](https://www.getdbt.com/dbt-learn)  |
+
+# Other Blogs 
+
 | S.No | Description | Link |
 |---------|-------------|-------------|
 | **1** | Snowflake Tutorial for Beginners (Blog)   | https://srinimf.com/2025/08/02/snowflake-tutorial-for-beginners-everything-you-need-to-get-started/ |
 | **2** | Official Snowflake Documentation Tutorials | https://docs.snowflake.com/en/learn-tutorials |
-| **3** | Data Engineer SQL Learning Path by snowflake | https://learn.snowflake.com/en/data-engineer-sql/ |
-| **4** | Data Engineer Learning Path by dbtLabs | https://www.getdbt.com/dbt-learn |
-| **5** | How to Learn Snowflake for Data Engineering? | https://medium.com/@khushbu.shah_661/how-to-learn-snowflake-for-data-engineering-c74911b232ce |
-| **6** | Snowflake Basics | https://www.youtube.com/playlist?list=PLavJpcg8cl1HrgCysWpFVLGczFA1aH8jW |
-| **7** | Step by step roadmap to becoming a Snowflake Data Engineer!| https://medium.com/snowflake/step-by-step-roadmap-to-becoming-a-snowflake-data-engineer-in-2023-18c823ba8b9c |
+| **3** | How to Learn Snowflake for Data Engineering? | https://medium.com/@khushbu.shah_661/how-to-learn-snowflake-for-data-engineering-c74911b232ce |
+| **4** | Snowflake Basics | https://www.youtube.com/playlist?list=PLavJpcg8cl1HrgCysWpFVLGczFA1aH8jW |
+| **5** | Step by step roadmap to becoming a Snowflake Data Engineer!| https://medium.com/snowflake/step-by-step-roadmap-to-becoming-a-snowflake-data-engineer-in-2023-18c823ba8b9c |
 
 
 # DBT+SNOWFLAKE Projects 
