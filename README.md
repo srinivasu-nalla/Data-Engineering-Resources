@@ -5,10 +5,10 @@ Tip : https://markdownlivepreview.dev/
 
 | S.No | Description | Link |
 |---------|-------------|-------------|
-| **1** | DataVidhya-Data-Engineering-Course-Resources   | https://github.com/darshilparmar/DataVidhya-Data-Engineering-Course-Resources |
-| **2** | Data Engineering Roadmap [WITH FREE RESOURCES] | https://github.com/anshlambagit/Data_Engineer_Roadmap |
-| **3** | Clear Around 70% of Your Data Engineer Interviews | https://medium.com/meanlifestudies/data-engineer-interview-ready-article-all-in-one-shot-1126b3986ccd|
-| **4** | Data Engineering Roadmap 2026 & FREE Resources |<br>* [Data Engineering Roadmap YouTube](https://www.youtube.com/watch?v=4ifxQ_th07U) <br>* [FREE Resources](https://docs.google.com/document/d/1RreyY38HTnDSqkQ64ehU4KHp8DyMDrxpWy3-LoSkRTs/edit?tab=t.0) <br>* [Data Engineering in 2026 From Zero to Senior](https://www.youtube.com/watch?v=1nVGaNbvuXg) <br>*[ Notion Data Engineering Roadmap](https://www.notion.com/templates/data-engineering-roadmap-125) |
+| **1** | DataVidhya Data-Engineering Resources   |<br>* [DataVidhya-Data-Engineering-Course-Resources from Git](https://github.com/darshilparmar/DataVidhya-Data-Engineering-Course-Resources) <br>* [Everything you need to Become a data engineer](https://datavidhya.com/learn/) |
+| **2** | Data Engineering Roadmap [WITH FREE RESOURCES] |<br>* [Data_Engineer_Roadmap By AnshLamba](https://github.com/anshlambagit/Data_Engineer_Roadmap)  |
+| **3** | Clear Around 70% of Your Data Engineer Interviews |<br>* [Data Engineer Interviews Collections](https://medium.com/meanlifestudies/data-engineer-interview-ready-article-all-in-one-shot-1126b3986ccd) |
+| **4** | Data Engineering Roadmap 2026 & FREE Resources |<br>* [Data Engineering Roadmap (YouTube)](https://www.youtube.com/watch?v=4ifxQ_th07U) <br>* [FREE Resources By DataVidhya](https://docs.google.com/document/d/1RreyY38HTnDSqkQ64ehU4KHp8DyMDrxpWy3-LoSkRTs/edit?tab=t.0) <br>* [Data Engineering in 2026 From Zero to Senior (YouTube)](https://www.youtube.com/watch?v=1nVGaNbvuXg) <br>*[ Notion Data Engineering Roadmap](https://www.notion.com/templates/data-engineering-roadmap-125) |
 
 
 
