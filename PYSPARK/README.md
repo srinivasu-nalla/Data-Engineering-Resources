@@ -6,7 +6,8 @@
 # PYSPARK/DataBricks Resuources 
 | S.No | Description | Link |
 |---------|-------------|-------------|
-| **1** |PYSPARK DATASETS|<br>*[Spark: The Definitive Guide DataSets/Code](https://github.com/databricks/Spark-The-Definitive-Guide)<br> |
+| **1** |Spark Performance Tuning *** |<br>*[Spark Performance Tuning Repo/Videos](https://github.com/afaqueahmad7117/spark-experiments)<br> |
+| **2** |PYSPARK DATASETS|<br>*[Spark: The Definitive Guide DataSets/Code](https://github.com/databricks/Spark-The-Definitive-Guide)<br> |
 
 
 # PYSPARK/DataBricks Projects 
