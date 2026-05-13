@@ -6,8 +6,9 @@
 | S.No | Description | Link |
 |---------|-------------|-------------|
 | **1** | Snowflake Virtual Hands-on Lab: From Zero to Snowflake in 90 Minutes |<br>* [Virtual Hands-on Labs](https://www.snowflake.com/en/webinars/virtual-hands-on-lab/?tags=region%2Fapj)<br>* [Zero to Snowflake Guide](https://www.snowflake.com/en/developers/guides/zero-to-snowflake/) <br>* [Recording Link](https://www.youtube.com/live/5FRmSU1gBkY)|
-| **2** | Data Engineer SQL Learning Path by snowflake | [Data Engineer SQL Learning PATH](https://learn.snowflake.com/en/data-engineer-sql/)|
-| **3** | Data Engineer Learning Path by dbtLabs | [Data Engineer PATH ](https://www.getdbt.com/dbt-learn)  |
+| **2** | Snowflake and dbt platform Hands On Lab |<br>* [Virtual Hands-on Labs](https://www.snowflake.com/en/developers/guides/accelerating-data-teams-with-snowflake-and-dbt-cloud-hands-on-lab)<br>* [Recording Link](https://www.youtube.com/live/fefrPKAUVhc)|
+| **3** | Data Engineer SQL Learning Path by snowflake | [Data Engineer SQL Learning PATH](https://learn.snowflake.com/en/data-engineer-sql/)|
+| **4** | Data Engineer Learning Path by dbtLabs | [Data Engineer PATH ](https://www.getdbt.com/dbt-learn)  |
 
 # Other Blogs 
 
